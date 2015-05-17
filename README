@@ -1,0 +1,37 @@
+
+MonoDevelop color scheme "elflord" as known from (g)Vim
+-------------------------------------------------------
+
+Copyright (C) 2015 Andreas Grapentin
+See the end for copying conditions
+
+Please send improvements or bug reports via
+<http://github.com/andy-graprof/monodevelop-elflord/issues/>
+or via mail at <andreas@grapentin.org>
+
+
+ This project aims at creating a MonoDevelop color scheme with the look and
+ feel of the elflord color scheme as seen in gVim.
+
+ To use it, import monodevelop-elflord.xml in the color schemes dialog of
+ monodevelop. The elflord.vim used as reference has been provided as well.
+
+ Special Thanks to Ron Aaron, for providing this brilliant piece of modern
+ texteditor aesthetics that we all know and love.
+
+
+----------------------------------------------------------------------
+Copyright information:
+
+Copyright (C) 2015 Andreas Grapentin
+
+   Permission is granted to anyone to make or distribute verbatim copies
+   of this document as received, in any medium, provided that the
+   copyright notice and this permission notice are preserved,
+   thus giving the recipient permission to redistribute in turn.
+
+   Permission is granted to distribute modified versions
+   of this document, or of portions of it,
+   under the above conditions, provided also that they
+   carry prominent notices stating who last changed them.
+
