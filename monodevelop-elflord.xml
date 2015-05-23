@@ -82,7 +82,7 @@
   <Style name="keyword.operator" color="#AA4343" weight="Bold" />
   <Style name="keyword.selection" color="#FFFFFF" />
   <Style name="keyword.iteration" color="#FFFFFF" />
-  <Style name="keyword.jump" color="#FFFFFF" />
+  <Style name="keyword.jump" color="#AA4343" weight="Bold" />
   <Style name="keyword.context" color="#FFFFFF" />
   <Style name="keyword.exceptions" color="#AA4343" weight="Bold" />
   <Style name="keyword.modifier" color="#60FF60" weight="Bold" />
